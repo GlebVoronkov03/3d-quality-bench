@@ -1,0 +1,9 @@
+# config/pler_config.yaml
+min_rays: 1000
+max_rays: 20000
+adaptive_sampling: true
+cache_rays: true
+precision: float128
+convergence_threshold: 0.1
+topology_analysis: true
+texture_analysis: false

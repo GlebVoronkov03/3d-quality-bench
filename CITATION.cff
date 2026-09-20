@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: "3D Quality Bench — multi-metric mesh quality platform"
+authors:
+  - family-names: Voronkov
+    given-names: Gleb
+repository-code: "https://github.com/GlebVoronkov03/3d-quality-bench"
+license: "Other"
